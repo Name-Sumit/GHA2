@@ -1,7 +1,7 @@
 name: github actions
 
 on: 
-   pull requet:
+   pull request:
    branches:
   - main
    push:
